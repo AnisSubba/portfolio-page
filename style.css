@@ -1,15 +1,21 @@
-body{
-  background-color: lightblue;
+.outline {
+  color: LightGray;
 }
 
-.red-text{
-  background-color: yellow;
-  color: red;
+.title{
   text-align: center;
+  color: Tomato;
+  border-style: outset;
+  border-width: medium;
+
 }
 
-p{
-    font-family: verdana;
-    font-size: 20px;
+.pro_pic{
+  margin-right: 200px;
+  text-align: center;
 
+}
+
+.intro{
+  color:DodgerBlue;
 }
