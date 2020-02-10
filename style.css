@@ -1,15 +1,15 @@
 body{
   background-color: lightblue;
 }
+
 .red-text{
-  color: black;
+  background-color: yellow;
+  color: red;
   text-align: center;
 }
-h2{
-  background-color: yellow;
-  color: black;
-}
+
 p{
-  background-color: yellow;
-  color: black;
+    font-family: verdana;
+    font-size: 20px;
+
 }
