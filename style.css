@@ -54,5 +54,20 @@ margin: 5px;
     border-bottom: 2px solid;
 }
 
+.projects{
+    color: black;
+    border-style: outset;
+    float: left;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.project-title{
+    text-align: center;
+    border-bottom: 2px solid;
+    border-bottom-color:black;
+    
+}
 
 
