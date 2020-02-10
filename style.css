@@ -1,23 +1,35 @@
 body {
-  background-color: aliceblue ;
+  background-image: url(page.jpg);
 }
 
 .title{
-    background-color: tomato;
+    background-color:aliceblue;
   text-align: center;
-  
+    font-family: 'Martel', serif;
   border-style: outset;
   border-width: medium;
 margin: 5px;
     border-radius: 12px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.Intro{
+  color:black;
+    border-style: outset;
+    float: left;
+    width: 45%;
+    background-color: white;
+}
+
+.intro-title{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    border-bottom: 2px solid ;
 }
 
 .intro{
-  color:black;
-    border-style: outset;
-    margin-right:auto;
-    width: 50%;
-    background-color: lightgray;
+    text-align: center;
 }
 
 .pro_pic{
@@ -25,4 +37,22 @@ margin: 5px;
     margin-left: auto;
     margin-right: auto;
     border-style: outset;
+    margin-bottom: 10px;
 }
+
+.tech-intro {
+    color:black;
+    border-style: outset;
+    float: right;
+    width: 50%;
+    background-color: white;
+}    
+
+.tech-title{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    border-bottom: 2px solid;
+}
+
+
+
