@@ -30,6 +30,7 @@ margin: 5px;
 
 .intro{
     text-align: center;
+    font-family: 'Mr De Haviland', cursive;
 }
 
 .pro_pic{
@@ -46,7 +47,7 @@ margin: 5px;
     float: right;
     width: 50%;
     background-color: white;
-}    
+}
 
 .tech-title{
     text-align: center;
@@ -67,7 +68,5 @@ margin: 5px;
     text-align: center;
     border-bottom: 2px solid;
     border-bottom-color:black;
-    
+
 }
-
-
