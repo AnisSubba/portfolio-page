@@ -1,11 +1,72 @@
-body{
-  background-color: lightblue;
+body {
+  background-image: url(page.jpg);
 }
-h1{
-  color: black;
+
+.title{
+    background-color:aliceblue;
   text-align: center;
+    font-family: 'Martel', serif;
+  border-style: outset;
+  border-width: medium;
+margin: 5px;
+    border-radius: 12px;
+    margin-left: 70px;
+    margin-right: 70px;
 }
-p{
-  background-color: yellow;
-  color: black;
+
+.Intro{
+  color:black;
+    border-style: outset;
+    float: left;
+    width: 45%;
+    background-color: white;
+}
+
+.intro-title{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    border-bottom: 2px solid ;
+}
+
+.intro{
+    text-align: center;
+    font-family: 'Mr De Haviland', cursive;
+}
+
+.pro_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: outset;
+    margin-bottom: 10px;
+}
+
+.tech-intro {
+    color:black;
+    border-style: outset;
+    float: right;
+    width: 50%;
+    background-color: white;
+}
+
+.tech-title{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    border-bottom: 2px solid;
+}
+
+.projects{
+    color: black;
+    border-style: outset;
+    float: left;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.project-title{
+    text-align: center;
+    border-bottom: 2px solid;
+    border-bottom-color:black;
+
 }
